@@ -6,8 +6,8 @@ My C++ coding skills are lack luster. I did heavily depend on stackoverflow snip
 If you want to use it, the .hpkg is on the release page. 
 
 # Building
-There are no dependecies for compiling on Haiku, you only need to cd into the directore and run:
 
+The dependecies are <b>make</b> and <b>libc<b> to build run:
 <code>make install</code>
 
 It should be automaticly placed in your screensaver folder!
