@@ -7,7 +7,7 @@ If you want to use it, the .hpkg is on the release page.
 
 # Building
 
-The dependecies are <b>make</b> and <b>libc<b> to build run:
+The dependecies are <b>make</b> and <b>libc</b> to build run:
 <code>make install</code>
 
 It should be automaticly placed in your screensaver folder!
